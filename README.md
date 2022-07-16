@@ -2,8 +2,6 @@
 
 A Simple but useful Chrome Extension, made for your care. It works in order to protect your privacy, and helps to hide your video when someones watches you.
 
-<img src="https://github.com/itsOwen/SneakyTube-Chrome-Extension/blob/master/images/preview.png">
-
 ## DISCLAIMER
 This extension is for educational purposes only.
 
@@ -13,9 +11,6 @@ This extension is for educational purposes only.
 2. Can be Toggle with "Enter" key on the keyboard. 
 3. Hides the video title and the sidebar, black screen, show fake buffering to hide your privacy.
 4. Press "Enter" key again to make your video visible.
-
-## Working:
-<img src="https://github.com/itsOwen/SneakyTube-Chrome-Extension/blob/master/images/sneakpeaknewversion.gif" width="1280px" height="720px">
 
 ## Note (Installation):
 
