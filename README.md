@@ -1,26 +1,29 @@
-# SneakyTube Chrome Extension! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+# Hidetube Chrome Extension! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-This is a very simple Chrome extension, created in order to protect your privacy when someone walks in on you watching sensitive content on Youtube :)
+A Simple but useful Chrome Extension, made for your care. It works in order to protect your privacy, and helps to hide your video when someones watches you.
 
 <img src="https://github.com/itsOwen/SneakyTube-Chrome-Extension/blob/master/images/preview.png">
 
 ## DISCLAIMER
 This extension is for educational purposes only.
 
-## Features:
-1. Whenever Someone walks in on you, simply press the "Enter Key" on the keyboard to hide your video (fake buffering), sidebar, title and more.
-2. Press "Enter Key" again to get back to the video (remove fake buffering), from where you left.
+## All Features and working:
 
-## SneakPeak:
+1. Works great when you want to hide your peronal video in one click.
+2. Can be Toggle with "Enter" key on the keyboard. 
+3. Hides the video title and the sidebar, black screen, show fake buffering to hide your privacy.
+4. Press "Enter" key again to make your video visible.
+
+## Working:
 <img src="https://github.com/itsOwen/SneakyTube-Chrome-Extension/blob/master/images/sneakpeaknewversion.gif" width="1280px" height="720px">
 
 ## Note (Installation):
-1. Download this repository.
-2. Extract the folder.
-3. After that open chrome and select extensions and load the folder.
-4. Now whenever you are watching a video, Press "Enter Key" to go sneaky and press "Enter again to go back where you left"
 
-## Upcoming Features:
-Maybe I will add something Intresting.
+1. First Download the repository (ZIP).
+2. Second Extract the ZIP file to a folder.
+3. Third, Open Chrome, type chrome://extensions/ on the URL and Enable developer mode there
+4. Last, Enable the developer mode and click load unpacked and drag the extracted folder.
+5. Done, Enjoy : )
 
-## Have a nice day :)
+
+## Have a wonderful day ahead :)
