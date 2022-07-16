@@ -2,6 +2,8 @@
 
 A Simple but useful Chrome Extension, made for your care. It works in order to protect your privacy, and helps to hide your video when someones watches you.
 
+<img src="https://media.discordapp.net/attachments/922486890173722655/997787542709620796/hidetube-img.png">
+
 ## DISCLAIMER
 This extension is for educational purposes only.
 
